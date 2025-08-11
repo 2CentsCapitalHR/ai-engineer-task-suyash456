@@ -1,0 +1,23 @@
+{
+  "process": "Company Incorporation",
+  "documents_uploaded": 0,
+  "required_documents": 8,
+  "missing_documents": [
+    "Articles of Association",
+    "Memorandum of Association",
+    "Board Resolution",
+    "Shareholder Resolution",
+    "Register of Members and Directors",
+    "Incorporation Application Form",
+    "UBO Declaration Form",
+    "Change of Registered Address Notice"
+  ],
+  "issues_found": [
+    {
+      "document": "Topics covered.docx",
+      "paragraph_index": 0,
+      "issue": "No signature block detected in document.",
+      "severity": "High"
+    }
+  ]
+}
